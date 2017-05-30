@@ -1,4 +1,5 @@
 <?php 
+//comment
 class XmlElement {
   var $name;
   var $attributes;
