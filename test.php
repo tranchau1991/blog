@@ -1,5 +1,7 @@
 <?php 
-//comment1
+//comment3
+//hoem
+$private ='internet';
 class XmlElement {
   var $name;
   var $attributes;
